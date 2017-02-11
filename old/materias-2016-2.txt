@@ -1,0 +1,33 @@
+Computação III|sem_site
+Sistemas Operacionais I|sem_site
+Tópicos Especiais em Sistemas Inteligentes II|sem_site
+Estatistica e Probabilidade (MAI)|sem_site
+Inteligência Artificial|sem_site
+Avaliação de Desempenho|Daniel Sadoc|ad|http://www.dcc.ufrj.br/~sadoc/ad20162/
+Métodos Matemáticos da Física Téorica 1|Carlos Zarro|metodos-fisica-teorica|http://www.if.ufrj.br/~carlos.zarro/MMFT1/MMFT1.html
+Métodos Computacionais em Física|José Helder|metcomp|http://www.if.ufrj.br/~helder/MetComp/2016-2/index.html
+Física I|Unificada|fisica1|http://fisica1.if.ufrj.br/
+Física II|Unificada|fisica2|http://fisica2.if.ufrj.br/index.html
+Física III|Unificada|fisica3|http://fisica3.if.ufrj.br/
+Física IV|Unificada|fisica4|http://fisica4.if.ufrj.br/
+Teleprocessamento e Redes|Paulo Henrique Aguiar|tp|http://www.voip.nce.ufrj.br/cursos/
+
+Mecânica, Oscilação e Ondas
+Programação Não linear I (ter-Lab 3)
+Tóp Esp em info na Sociedade(LAB 3)
+Organização de Dados II|Vinicius gusmao|org-dados2|http://viniciusgusmao.com
+Computação Gráfica I - F3-013|Paulo Roma|cg|orion.lcg.ufrj.br/WebGL/
+Economia - Ciência da Computação
+Tóp Esp Banco de Dados (Web Semântica)
+Introdução a Redes
+Banco de Dados I (Sala F3 016)
+Programação Linear I
+Lab. Sist. Info.II (Ofic. Obj. Interat.)
+Trabalhando com Grandes Volumes de Dados
+Tóp. Esp. em Computação Gráfica
+Tóp Esp. Algorit. (Prog. Paralela c/GPU)
+Redes Neurais sem peso
+Sistemas Operacionais II (Linux) - LAB 1
+Progr Paralela e Distribuída (LAB 2)
+Data Warehousing Sup.Tomada de Decisões
+
